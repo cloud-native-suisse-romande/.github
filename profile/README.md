@@ -6,5 +6,6 @@ within Suisse Romande (French-speaking regions of Switzerland) and neighboring l
 
 If you're on the CNCF Slack, join us on the `#switzerland` channel!
 
-[Assosciation and Governance](https://github.com/cloud-native-suisse-romande/governance), 
+[Ho to join](Track Chair: KubeCon + CloudNativeCon North America 2023),
+[Association and Governance](https://github.com/cloud-native-suisse-romande/governance), 
 [CNCF Bevy Chapter](https://community.cncf.io/cloud-native-suisse-romande/)
