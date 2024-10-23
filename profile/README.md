@@ -5,7 +5,9 @@ We aim to connect end users, contributors, and maintainers of the projects in th
 within Suisse Romande (French-speaking regions of Switzerland) and neighboring locations.
 
 If you're on the CNCF Slack, join us on the `#switzerland` channel!
+Also see the [CNCF Bevy Chapter](https://community.cncf.io/cloud-native-suisse-romande/).
 
-[Ho to join](Track Chair: KubeCon + CloudNativeCon North America 2023),
+[Temporay Website](https://cloud-native-suisse-romande.github.io/website/),
+[How to Join](https://cloud-native-suisse-romande.github.io/website/governance/policies/2_membership-process/),
 [Association and Governance](https://github.com/cloud-native-suisse-romande/governance), 
-[CNCF Bevy Chapter](https://community.cncf.io/cloud-native-suisse-romande/)
+
